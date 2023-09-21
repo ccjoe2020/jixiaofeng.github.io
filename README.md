@@ -1,5 +1,5 @@
 # jixiaofeng.github.io
-jixiaofeng website
+## jixiaofeng website
 
 1. project 1 *game*
 2. project 2 *media*
