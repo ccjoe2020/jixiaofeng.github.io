@@ -6,7 +6,6 @@
 2. project 2 *media*
 3. project 3 *digital*
 
-[link]
-(https://github.com/ccjoe2020/jixiaofeng.github.io/edit/main/README.md)
+[li nk](https://editor.p5js.org/kachakacha/full/7abchp3N0)
 
 END
